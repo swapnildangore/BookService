@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+#Ignone all idea file
+.idea/**/*.*
+
+#Ignore target directory
+target/**/*.*
+
+#Ignore mvn directory
+.mvn/**/*.*
+
 # Log file
 *.log
 
